@@ -1,0 +1,7 @@
+FROM alpine
+COPY . ./
+RUN apk add nodejs npm 
+RUN npm i --silent && npm run build
+RUN npm i -g --silent serve
+ENTRYPOINT serve -s build
+

@@ -1,0 +1,27 @@
+{
+	"name":"name",
+	"keys":["asdas","fasdf","fsdffg","efefe"],
+    "device":{
+        "asdas":{
+            "vm":"ISP",
+		"assa":"asdfV"	
+        },
+        "fasdf":{
+            "vm":"DMZ-W"
+        },
+        "fsdffg":{
+            "vm":"CLI2-L"
+        },
+        "efefe":{
+            "dsd":"et5r5y"
+        }
+    },
+    "lines":{
+        "3546":{
+            "gfdg":""
+        },
+        "576u65":{
+            "dsf":""
+        }
+    }
+}

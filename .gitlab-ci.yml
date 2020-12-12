@@ -1,0 +1,6 @@
+build_project:
+    script:
+        - docker-compose build
+run_project:
+    script:
+        - docker-compose up -d
